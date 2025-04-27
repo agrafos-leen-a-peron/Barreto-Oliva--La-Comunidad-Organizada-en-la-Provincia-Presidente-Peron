@@ -1,342 +1,74 @@
-XXXVIII ENCUENTRO DE
-GEOHISTORIA REGIONAL
+# La Comunidad Organizada en la Provincia Presidente Perón.
 
-vIIN SIMPOSIO ee
-REGION Y — — —
-POLITICAS
-
-| PUBLICAS GM
-
-ISBN: 978-987-4450-07-4
-
-La Comunidad Organizada en la Provincia Presidente Perón.
-
-Discursos y representaciones sobre el papel de los trabajadores en
-
-AUTOR
-
-RESUMEN
-
-Convención Constituyente de 1951
+## Discursos y representaciones sobre el papel de los trabajadores en la Convención Constituyente de 1951
 
 Anabella Barreto Oliva
 
-annabellabarretto Q outlook.com
-
 Un nuevo período se inicia con la provincialización del Chaco en 1951, en este sentido, la convocatoria a elecciones
-de convencionales constituyentes supuso una importante oportunidad para los trabajadores sindicalizados. Nos
-referimos a la posibilidad de pensar una organización política-institucional que cumpliera con las aspiraciones de
-ese sector. Así, la Constitución finalmente sancionada incorporó un sistema de representación obrero. En el art.
-N” 33 estableció que la Cámara Legislativa estaría compuesta en un 50% por diputados electos por los partidos
-políticos y en un 50% por diputados electos por el sector gremial. El sistema, representaba, sin lugar a dudas, una
-singularidad en la historia institucional Argentina. El hecho de que no tenga precedentes en el país se suma a que
-la provincia Presidente Perón fue la única que lo aplicó en todo el período peronista. Esto nos llevó a preguntar-
-nos ¿Cuáles fueron las concepciones políticas que sustentaron la decisión de los convencionales? De este modo, la
-investigación tiene por objeto recuperar el sentido que tuvo el voto obrero para los mismos convencionales que
-bregaron por su sanción. Para ello no sólo recurriremos a las intervenciones registradas en el Diario Sesiones, sino
-también a los documentos emanados del gobierno nacional que nos permitan pensar los argumentos esbozados por
-los convencionales a partir de un marco ideológico más amplio. Por otra parte, se expondrá la posición que asume
-la oposición a fin de reflejar los matices que existieron en la consideración del sistema de representación obrero.
-Utilizamos la metodología propia de la investigación histórica: análisis temático de la documentación bibliográfica,
+de convencionales constituyentes supuso una importante oportunidad para los trabajadores sindicalizados. 
+Nos referimos a la posibilidad de pensar una organización política-institucional que cumpliera con las aspiraciones de
+ese sector. Así, la Constitución finalmente sancionada incorporó un sistema de representación obrero. 
+En el art. N” 33 estableció que la Cámara Legislativa estaría compuesta en un 50% por diputados electos por los partidos
+políticos y en un 50% por diputados electos por el sector gremial. 
+El sistema, representaba, sin lugar a dudas, una singularidad en la historia institucional Argentina. 
+El hecho de que no tenga precedentes en el país se suma a que la provincia Presidente Perón fue la única que lo aplicó en todo el período peronista. Esto nos llevó a preguntarnos ¿Cuáles fueron las concepciones políticas que sustentaron la decisión de los convencionales? De este modo, la investigación tiene por objeto recuperar el sentido que tuvo el voto obrero para los mismos convencionales que
+bregaron por su sanción. 
+Para ello no sólo recurriremos a las intervenciones registradas en el Diario Sesiones, sino también a los documentos emanados del gobierno nacional que nos permitan pensar los argumentos esbozados por los convencionales a partir de un marco ideológico más amplio. 
+Por otra parte, se expondrá la posición que asume la oposición a fin de reflejar los matices que existieron en la consideración del sistema de representación obrero.
+Utilizamos la metodología propia de la investigación histórica: análisis temático de la documentación bibliográfica, hemerográfica y archivística del período, combinada con los aportes de la teoría política y de la filosofía política.
 
-Introducción
+### Introducción
 
-Un nuevo período se inicia con
-la provincialización del Chaco, sig-
-nado por la institucionalización de
-la participación política del colectivo
-obrero. La convocatoria a elecciones
-de convencionales constituyentes
-supuso una importante oportunidad
-para los trabajadores sindicaliza-
-dos, Única fuerza en la Convención
-de 1951. Nos referimos a la tarea de
-elaborar y justificar la organización
-institucional de la provincia. La la-
-bor de “ustificar” fue particular-
-mente relevante atendiendo a que
-la Constitución incorpora un nove-
-doso sistema de representación. En
-efecto, en el art. N* 33 se establece
-que la Cámara Legislativa estaría
-compuesta en un 50% por diputados
-electos por los partidos políticos y en
-un 50% por diputados electos por el
-sector gremial.
+Un nuevo período se inicia con la provincialización del Chaco, signado por la institucionalización de la participación política del colectivo obrero. La convocatoria a elecciones de convencionales constituyentes supuso una importante oportunidad para los trabajadores sindicalizados, Única fuerza en la Convención de 1951. 
+Nos referimos a la tarea de elaborar y justificar la organización institucional de la provincia. 
+La labor de “ustificar” fue particularmente relevante atendiendo a que la Constitución incorpora un novedoso sistema de representación. 
+En efecto, en el art. N* 33 se establece que la Cámara Legislativa estaría compuesta en un 50% por diputados electos por los partidos políticos y en
+un 50% por diputados electos por el sector gremial.
 
-El sistema se denominó de “voto
-doble” ya que votaban dos veces
+El sistema se denominó de “voto doble” ya que votaban dos veces aquellos ciudadanos sindicalizados y representó, sin lugar a dudas, una singularidad en la historia constitucional Argentina. 
+El hecho de que no tenga precedentes en el país se suma a que la provincia Presidente Perón fue la única que lo aplicó en todo el período peronista. 
+Esto nos lleva a preguntarnos ¿Cuáles fueron las concepciones y representaciones políticas que sustentaron la decisión de los convencionales? 
+Y ¿qué rol cumple la doctrina peronista en esas concepciones?
 
-|
+Son numerosos los trabajos que se han encargado de estudiar los proceso de provincialización de los territorios nacionales durante el peronismo así como también los objetivos y esperanzas del gobierno puestos en esa apuesta política y electoral'.
 
-aquellos ciudadanos sindicalizados
-y representó, sin lugar a dudas, una
-singularidad en la historia constitu-
-cional Argentina. El hecho de que
-no tenga precedentes en el país se
-suma a que la provincia Presidente
-Perón fue la única que lo aplicó en
-todo el período peronista. Esto nos
-lleva a preguntarnos ¿Cuáles fueron
-las concepciones y representaciones
-políticas que sustentaron la decisión
-de los convencionales? Y ¿qué rol
-cumple la doctrina peronista en esas
-concepciones?
+Sin embargo, es preciso destacar el enfoque con el que la autora Sabrina Ajmechet (2012) ha abordado esta cuestión. 
+Ajmechet es politóloga y doctora en Historia con una prolífica producción acerca de sistemas políticos y electorales especialmente durante el peronismo. 
+En este sentido ha hecho importantes aportes a los estudios sobre las concepciones políticas del peronismo y su expresión en la legislación nacional.
+En su artículo “El peronismo como momentos de reforma (1946-1955)” propone una mirada global sobre las transformaciones del sistema electoral implementadas durante el primer peronismo, en la que incluye: el sufragio femenino, reforma constituyente, ley de partidos políticos, ley electoral y provincializaciones.
+La autora interpreta estas transformaciones a partir de las nuevas concepciones políticas del peronismo y de la redefinición de la figura del
+ciudadano ideal. 
+Las conclusiones a las que arriba son extensibles a todo el territorio argentino, sin embargo, en el caso de la provincia Presidente Perón se produjo la más radical de las transformaciones del sistema electoral durante el periodo: la incorporación de la representación
+de entidades profesionales en la cámara legislativa. 
+¿Es esta reforma la expresión más acabada del proyecto político/institucional peronista o se desvía de las nociones propuestas por la autora Sabrina Ajmechet para el conjunto de reformas electorales que se plantean a nivel nacional?
 
-Son numerosos los trabajos que
-se han encargado de estudiar los pro-
-ceso de provincialización de los terri-
-torios nacionales durante el peronis-
-mo así como también los objetivos
-y esperanzas del gobierno puestos
-en esa apuesta política y electoral'.
-1 Algunos de los trabajos referidos
+De este modo, la investigación tiene por objeto recuperar el sentido que tuvo el voto obrero para los mismos convencionales que bregaron
+por su sanción y dentro de lo que entendían por el modelo político/institucional peronista. 
+Para ello no sólo recurriremos al análisis de las intervenciones registradas en el Diario Sesiones, sino también a los discursos de Perón que fueron reproducidos por periódicos locales, y que nos permitan pensar los argumentos esbozados por los convencionales a partir de un marco ideológico más amplio.
 
-a las provincializaciones son:
+### La provincialización del Chaco y la Constitución de 1951
 
-Bucciarelli Mario Arias (2008).
+Al producirse la revolución de 1943, las comunas en el Chaco fueron intervenidas y se suspendieron las elecciones. 
+Esto privó a los habitantes de la principal vía de discusión de problemáticas locales, que permitía la elevación de reclamos al gobierno nacional. Paralelamente se abre un período de mayor protagonismo del sector gremial en el escenario público como consecuencia de la instalación de delegaciones de instituciones nacionales en el territorio y del papel reconocido a este sector por gobierno de Perón.
+En 1944 se crea la Delegación Regional de la Secretaria de Trabajo y Previsión que tuvo por fin ensayar un acercamiento a los sindicatos a
+través de la estimación de sus reclamos y actuando como un órgano “constructor de consenso” sobre la política laboral del Gral. Perón (Maggio, 2014, p.110). 
+La contracara de este reconocimiento a los sindicatos, sobre todo a partir de la sanción de la Ley de Asociaciones Profesionales en 1945, fue la continua injerencia de la Secretaría en los asuntos internos de los mismos y el intento de mantenerlos bajo estricto control a través de la coerción?.
 
-«Concepciones políticas en el
+En este sentido el nuevo diálogo que se instaura no estuvo libre de tensiones, pero permitió a los sindicalistas fortalecer sus organizaciones
+y, a partir de ello, encarar un nuevo desafío: la provincialización del Chaco. 
+A partir de 1947 se entregaron petitorios y proyectos constitucionales a Evita y funcionarios del gobierno nacional, se organizaron actos en diferentes partes del interior de la provincia con el fin de sumar adhesiones a la causa (Leoni, M. S. 1992, p. 14)
 
-hemerográfica y archivística del período, combinada con los aportes de la teoría política y de la filosofía política.
+En julio de 1951 Eva Perón, en respuesta a los pedidos de los trabajadores, envía una nota al presidente del Senado pidiendo el inmediato
+tratamiento del proyecto de provincialización del Chaco y la Pampa. 
+El mismo fue tratado, y el 8 de agosto el Poder Ejecutivo Nacional finalmente promulgó la ley N? 14.037 provincializando los territorios nacionales
+del Chaco y La Pampa. 
+Una Convención Constituyente de quince miembros debía sancionar, en un plazo de noventa días, la Constitución.
 
-peronismo clásico. Controversias
-
-a partir del debate sobre
-provincialización de territorios
-nacionales», Historia Política [En
-línea]. Consultado el 3 de julio,
-2018. URL: http://historiapolitica.
-com/datos/biblioteca/abuciarelli.
-pdf. Ajmechet Sabrina (2011).
-
-«La ciudadanía política durante
-
-el primer peronismo: el caso de
-
-las provincializaciones», Historia
-Política [En línea]. Consultado
-
-el 3 de julio, 2018. URL: http://
-historiapolitica.com/datos/
-biblioteca/viij_ajmechet.pdf.
-Ruffini, Marta (2005). “Peronismo,
-territorios nacionales y ciudadanía
-política. Algunas reflexiones en
-torno a la provincialización”. En:
-Avances del Cesor, N9 5, Año V,
-Rosario, Facultad de Humanidades
-y Artes, Centro de Estudios Sociales
-Regionales- UNR, pp.132-148.
-
-Más específicamente para ver la
-transición del Chaco de territorio
-nacional a provincia con plenos
-derechos políticos podemos
-
-100  Mesa Temática 4: Problemas de la historia palítica en los espacios provinciales y regionales: del reformismo a las transiciones democráticas (1880-1983)
-|
-XXXVIII ENCUENTRO DE
-GEOHISTORIA REGIONAL
-
-Sin embargo, es preciso destacar el
-enfoque con el que la autora Sabri-
-na Ajmechet (2012) ha abordad esta
-cuestión. Ajmechet es politóloga y
-doctora en Historia con una prolí-
-fica producción acerca de sistemas
-políticos y electorales especialmente
-durante el peronismo. En este sen-
-tido ha hecho importantes aportes
-a los estudios sobre las concepcio-
-nes políticas del peronismo y su ex-
-presión en la legislación nacional.
-En su artículo “El peronismo como
-momentos de reforma (1946-1955)”
-propone una mirada global sobre
-las transformaciones del sistema
-electoral implementadas durante el
-primer peronismo, en la que incluye:
-el sufragio femenino, reforma cons-
-tituyente, ley de partidos políticos,
-ley electoral y provincializaciones.
-La autora interpreta estas transfor-
-maciones a partir de las nuevas con-
-cepciones políticas del peronismo
-y de la redefinición de la figura del
-ciudadano ideal. Las conclusiones a
-las que arriba son extensibles a todo
-el territorio argentino, sin embargo,
-en el caso de la provincia Presiden-
-te Perón se produjo la más radical
-de las transformaciones del siste-
-ma electoral durante el periodo: la
-incorporación de la representación
-de entidades profesionales en la cá-
-mara legislativa. ¿Es esta reforma la
-expresión más acabada del proyecto
-político/institucional peronista o se
-desvía de las nociones propuestas
-
-mencionar: Leoni, M. S. (1987).”
-
-La transición del Territorio a
-
-la Provincia del Chaco (1951-
-1953)”. En Octavo Encuentro
-
-de Geo historia Regional. TGHI-
-FUNDANORD, 1988. Resistencia,
-Argentina. pp. 183-191. Leoni,
-
-M. S. y Solis Carnicer M. (2015).
-“Peronismo, diseño institucional y
-centralización política. Un análisis a
-partir de dos espacios subnacionales
-argentinos: Corrientes y Chaco
-(1946-1955)”. En Revista del
-Instituto Ibero Americano, Año:
-2015 vol. 15, Berlín, Instituto Ibero-
-americano de Berlin, Instituto de
-Estudios Latinoamericanos de
-Hamburgo, pp. 61
-
-VIII SIMPOSIO
-
-REGION Y
-POLITICAS
-
-|
-
-ISBN: 978-987-4450-07-4
-
-| PUBLICAS m
-
-por la autora Sabrina Ajmechet para
-el conjunto de reformas electorales
-que se plantean a nivel nacional?
-
-De este modo, la investigación
-tiene por objeto recuperar el sentido
-que tuvo el voto obrero para los mis-
-mos convencionales que bregaron
-por su sanción y dentro de lo que
-entendían por el modelo político/
-institucional peronista. Para ello no
-sólo recurriremos al análisis de las
-intervenciones registradas en el Dia-
-rio Sesiones, sino también a los dis-
-cursos de Perón que fueron repro-
-ducidos por periódicos locales, y que
-nos permitan pensar los argumentos
-esbozados por los convencionales a
-partir de un marco ideológico más
-amplio.
-
-La provincialización del Chaco
-y la Constitución de 1951
-
-Al producirse la revolución de
-1943, las comunas en el Chaco fue-
-ron intervenidas y se suspendieron
-las elecciones. Esto privó a los ha-
-bitantes de la principal vía de discu-
-sión de problemáticas locales, que
-permitía la elevación de reclamos
-al gobierno nacional. Paralelamente
-se abre un período de mayor pro-
-tagonismo del sector gremial en el
-escenario público como consecuen-
-cia de la instalación de delegacio-
-nes de instituciones nacionales en
-€l territorio y del papel reconocido
-a este sector por gobierno de Perón.
-En 1944 se crea la Delegación Re-
-gional de la Secretaria de Trabajo y
-Previsión que tuvo por fin ensayar
-un acercamiento a los sindicatos a
-través de la estimación de sus re-
-clamos y actuando como un órgano
-“constructor de consenso” sobre la
-política laboral del Gral. Perón (Ma-
-ggio, 2014, p.110). La contracara de
-este reconocimiento a los sindicatos,
-sobre todo a partir de la sanción de
-la Ley de Asociaciones Profesionales
-en 1945, fue la continua injerencia
-de la Secretaría en los asuntos in-
-ternos de los mismos y el intento de
-mantenerlos bajo estricto control a
-través de la coerción?.
-
-2 El caso de SUOF estudiado
-por Mayra Maggio (2017) es
-
-En este sentido el nuevo diálogo
-que se instaura no estuvo libre de
-tensiones, pero permitió a los sindi-
-calistas fortalecer sus organizaciones
-y, a partir de ello, encarar un nuevo
-desafío: la provincialización del Cha-
-co. A partir de 1947 se entregaron pe-
-titorios y proyectos constitucionales
-a Evita y funcionarios del gobierno
-nacional, se organizaron actos en di-
-ferentes partes del interior de la pro-
-vincia con el fin de sumar adhesiones
-a la causa (Leoni, M. S. 1992, p. 14)
-
-En julio de 1951 Eva Perón, en
-respuesta a los pedidos de los traba-
-jadores, envía una nota al presidente
-del Senado pidiendo el inmediato
-tratamiento del proyecto de provin-
-cialización del Chaco y la Pampa. El
-mismo fue tratado, y el 8 de agosto el
-Poder Ejecutivo Nacional finalmen-
-te promulgó la ley N? 14.037 provin-
-cializando los territorios nacionales
-del Chaco y La Pampa. Una Conven-
-ción Constituyente de quince miem-
-bros debía sancionar, en un plazo de
-noventa días, la Constitución.
-
-El 11 noviembre de 1951 se rea-
-lizaron las elecciones presidenciales
-conjuntamente con las elecciones
-de convencionales, de acuerdo a lo
-dispuesto por la ley de provinciali-
-zación. El resultado fue un contun-
-dente triunfo del peronismo en la
-provincia que obtuvo cerca del 81%
-de los votos, dejando muy atrás a los
-demás partidos participantes: UCR,
-Partido Socialista, Partido Demócra-
-ta Progresista, y Partido Comunista.
-El sistema electoral que se utilizó fue
-el de escrutinio mayoritario unino-
-minal en cada una de las 15 circuns-
-cripciones en que se dividió la pro-
-vincia, dando como resultado una
-Convención compuesta por una sola
-fuerza, el peronismo. A su vez entre
-estos se diferenciaron 7 convencio-
-nales por el sector político y 8 con-
-vencionales por el sector gremial”.
-
-representativo del intento de control
-y disposición que la STP quería
-ejercer sobre los sindicatos.
-
-3 Losconvencionales electos fueron:
-Acosta Policarpo; Alvarez Lottero
-Antonio Eraclio; De Nicola Julio
-
-101 Mesa Temática 4: Problemas de la historia política en los espacios provinciales y regionales: del reformismo a las transiciones democráticas (1880-1983)
-|
-XXXVIII ENCUENTRO DE
-GEOHISTORIA REGIONAL
+El 11 noviembre de 1951 se realizaron las elecciones presidenciales conjuntamente con las elecciones de convencionales, de acuerdo a lo
+dispuesto por la ley de provincialización. 
+El resultado fue un contundente triunfo del peronismo en la provincia que obtuvo cerca del 81% de los votos, dejando muy atrás a los demás partidos participantes: UCR, Partido Socialista, Partido Demócrata Progresista, y Partido Comunista.
+El sistema electoral que se utilizó fue el de escrutinio mayoritario uninominal en cada una de las 15 circunscripciones en que se dividió la provincia, dando como resultado una Convención compuesta por una sola fuerza, el peronismo. 
+A su vez entre estos se diferenciaron 7 convencionales por el sector político y 8 convencionales por el sector gremial”.
 
 Según lo expuesto por Millán
 Ford (2011) en el libro en el que re-

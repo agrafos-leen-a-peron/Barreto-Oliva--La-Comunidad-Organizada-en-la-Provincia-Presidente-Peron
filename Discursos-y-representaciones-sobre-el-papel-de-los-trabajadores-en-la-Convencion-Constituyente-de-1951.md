@@ -196,270 +196,49 @@ El pedido, finalmente, no fue avalado por el Congreso, y la Constitución contin
 
 ### Perón y la representación política
 
-Eran conocidas las críticas de Perón al sistema político liberal, so-
-bre todo por su falta de representati-
-vidad. Los discursos que anunciaban
-el advenimiento de nuevas formas
-de gobierno eran reproducidos a tra-
-vés de la radiodifusión, de periódi-
-cos y folletos que contribuían a crear
-un clima de inconformidad hacia las
-instituciones y generaban expectati-
-vas y temores.
+Eran conocidas las críticas de Perón al sistema político liberal, sobre todo por su falta de representatividad. 
+Los discursos que anunciaban el advenimiento de nuevas formas de gobierno eran reproducidos a través de la radiodifusión, de periódicos y folletos que contribuían a crear un clima de inconformidad hacia las instituciones y generaban expectativas y temores.
 
-El mismo día que concluyen las
-sesiones de la Convención Constitu-
-yente, y se jura la ley fundamental
-de la provincia se publica en el dia-
-rio El Territorio un revelador artí-
-culo. Este reproduce el discurso del
-Gral. Perón ante los miembros de la
-Confederación de la Producción, la
-Industria y el Comercio bajo el título
-de “El sistema representativo de go-
-bierno no es totalmente eficaz, según
-el Gral Perón. Deben incorporarse al
-manejo del país las fuerzas que lo
-componen”
+El mismo día que concluyen las sesiones de la Convención Constituyente, y se jura la ley fundamental de la provincia se publica en el diario El Territorio un revelador artículo. 
+Este reproduce el discurso del Gral. Perón ante los miembros de la Confederación de la Producción, la Industria y el Comercio bajo el título
+de “El sistema representativo de gobierno no es totalmente eficaz, según el Gral Perón. 
+Deben incorporarse al manejo del país las fuerzas que lo componen”
 
-Perón, en el mencionado artícu-
-lo sostiene:
+Perón, en el mencionado artículo sostiene:
 
-Yo entiendo que, así como se
-han organizado las fuerzas del
-trabajo se organizan ahora las
-fuerzas económicas y se orga-
-nizarán después las profesio-
-nales y todas las actividades
-de la cultura, de la ciencia
-y de todas las demás cosas.
-Esos organismos tendrán sus
-representantes reales, efec-
-tivos y fehacientes (...) Pero
-señores nuestro interés no se
-detiene allí, nuestro propio
+> Yo entiendo que, así como se han organizado las fuerzas del trabajo se organizan ahora las fuerzas económicas y se organizarán después las profesionales y todas las actividades de la cultura, de la ciencia y de todas las demás cosas.
+> Esos organismos tendrán sus representantes reales, efectivos y fehacientes (...)
+> Pero señores nuestro interés no se detiene allí, nuestro propio movimiento ha de propugnar para que los señores que representen estas organizaciones de la economía argentina tengan las posibilidades de llegar también al Congreso.
+> (Diario El Territorio, 22 de diciembre de 1951, p.1)
 
-9 AHPCLh. Diario El Territorio, 22 de
-diciembre de 1951, p. 1
+En el citado fragmento se dilucida una nueva concepción acerca del rol del Congreso a partir de la inclusión de sujetos colectivos que si bien
+representan un sector de la sociedad no lo hacen en los términos político/ideológicos reconocidos a los partidos. 
+Una interpretación acerca de las nuevas ideas que introduce el peronismo en este aspecto lo elabora la Sabrina Ajmechet (2012), quien sostiene que tanto la ley electoral de 1951 como la de partidos políticos de 1949 representan una ruptura con la tradición del sistema políticos liberal en el sentido de que tendía a la uniformidad en la representación en el Congreso. 
+Esta pretensión se sustentaba en la escaza valoración de las instancias de debate y negociación con otras fuerzas políticas, en la inadmisibilidad de que el peronismo fuera una representación parcial de los ciudadanos. 
+La voluntad general era una y estaba encarnada en el líder y su doctrina (Ajmechet, 2012).
+El Congreso, por lo tanto, era un espacio de acuerdo y colaboración entre representantes no de diferentes ideologías o proyectos políticos sino
+de las diferentes fuerzas productivas que componían la sociedad a las que se le reconoce intereses legítimos en lo económico, pero no así en lo político, que quedaba fuera de debate.
 
-| VIII SIMPOSIO
+### Conclusiones
 
-REGION Y
-POLITICAS
+En 1951 tanto Perón como los convencionales manifiestan ser parte de una inevitable evolución hacia formas políticas más representativas que dejan atrás las tradicionales instituciones liberales. 
+En esta coyuntura los sujetos protagonistas del cambio son los trabajadores, a través de sus organizaciones, quienes en los años precedentes habían
+adquirido un papel central en el ámbito político. 
+Ese renovado protagonismo surgió a partir de una nueva relación con el gobierno nacional que, a pesar de no estar libre de tensiones, le permitió el reconocimiento como sujetos imprescindibles en la naciente estructura institucional.
 
-|
+Por otra parte, podemos concluir que existió una coincidencia entre los convencionales y la oposición en cuanto a la ruptura que representó
+el sistema de “voto obrero” para la historia institucional de la Argentina, no así en el sentido de la misma.
+Para los primeros se hacía realidad su deseo de hacer pragmáticos los principios justicialistas y llevar a la práctica la filosofía de la Comunidad
+Organizada. 
+En cambio, para la oposición significó la introducción de un elemento ajeno a las costumbres del pueblo argentino y que tenía el fin de privilegiar a determinados sectores.
 
-ISBN: 978-987-4450-07-4
+Los convencionales se sintieron protagonistas de un hecho (la sanción del régimen corporativo) que ponía a la provincia en la punta de la evolución “natural” del Justicialismo. En este punto es preciso hablar de la preeminencia del ideal, es decir de los planteamientos filosóficos de
+Perón, en la justificación de la introducción del nuevo sistema de representación.
 
-| PUBLICAS m
+Por último, podemos decir que se dilucida un diálogo entre dos proyectos de Parlamento asentados en dos principios de legitimidad diferentes.
+Uno, es el Parlamento Liberal que reúne en su seno a los representantes de individuos que se identifican con diferentes ideologías políticas, pero
+que en al momento en que forman parte de la Cámara deben responden por la ciudanía de la provincia en su conjunto. 
+El otro es el Parlamento peronista, que pretende dar representación a grupos socioeconómicos de acuerdo a un criterio funcional y que en cuanto a ideología se caracteriza por la uniformidad.
 
-movimiento ha de propugnar
-para que los señores que re-
-presenten estas organizacio-
-nes de la economía argentina
-tengan las posibilidades de
-llegar también al Congreso.
-(Diario El Territorio, 22 de di-
-ciembre de 1951, p.1)
-
-En el citado fragmento se diluci-
-da una nueva concepción acerca del
-rol del Congreso a partir de la inclu-
-sión de sujetos colectivos que si bien
-representan un sector de la sociedad
-no lo hacen en los términos político/
-ideológicos reconocidos a los parti-
-dos. Una interpretación acerca de
-las nuevas ideas que introduce el pe-
-ronismo en este aspecto lo elabora
-la Sabrina Ajmechet (2012), quien
-sostiene que tanto la ley electoral de
-1951 como la de partidos políticos de
-1949 representan una ruptura con la
-tradición del sistema políticos libe-
-ral en el sentido de que tendía a la
-uniformidad en la representación en
-el Congreso. Esta pretensión se sus-
-tentaba en la escaza valoración de
-las instancias de debate y negocia-
-ción con otras fuerzas políticas, en la
-inadmisibilidad de que el peronismo
-fuera una representación parcial de
-los ciudadanos. La voluntad general
-era una y estaba encarnada en el lí-
-der y su doctrina (Ajmechet, 2012).
-El Congreso, por lo tanto, era un es-
-pacio de acuerdo y colaboración en-
-tre representantes no de diferentes
-ideologías o proyectos políticos sino
-de las diferentes fuerzas productivas
-que componían la sociedad a las que
-se le reconoce intereses legítimos en
-lo económico, pero no así en lo po-
-lítico, que quedaba fuera de debate.
-
-Conclusiones
-
-En 1951 tanto Perón como los
-convencionales manifiestan ser par-
-te de una inevitable evolución hacia
-formas políticas más representati-
-vas que dejan atrás las tradiciona-
-les instituciones liberales. En esta
-coyuntura los sujetos protagonistas
-del cambio son los trabajadores, a
-través de sus organizaciones, quie-
-nes en los años precedentes habían
-adquirido un papel central en el ám-
-
-bito político. Ese renovado protago-
-nismo surgió a partir de una nueva
-relación con el gobierno nacional
-que, a pesar de no estar libre de ten-
-siones, le permitió el reconocimien-
-to como sujetos imprescindibles en
-la naciente estructura institucional.
-
-Por otra parte, podemos concluir
-que existió una coincidencia entre
-los convencionales y la oposición en
-cuanto a la ruptura que representó
-el sistema de “voto obrero” para la
-historia institucional de la Argenti-
-na, no así en el sentido de la misma.
-Para los primeros se hacía realidad
-su deseo de hacer pragmáticos los
-principios justicialistas y llevar a la
-práctica la filosofía de la Comunidad
-Organizada. En cambio, para la opo-
-sición significó la introducción de un
-elemento ajeno a las costumbres del
-pueblo argentino y que tenía el fin de
-privilegiar a determinados sectores.
-
-Los convencionales se sintieron
-protagonistas de un hecho (la san-
-ción del régimen corporativo) que
-ponía a la provincia en la punta de
-la evolución “natural” del Justicialis-
-mo. En este punto es preciso hablar
-de la preeminencia del ideal, es decir
-de los planteamientos filosóficos de
-Perón, en la justificación de la intro-
-ducción del nuevo sistema de repre-
-sentación.
-
-Por último, podemos decir que se
-dilucida un diálogo entre dos proyec-
-tos de Parlamento asentados en dos
-principios de legitimidad diferentes.
-Uno, es el Parlamento Liberal que re-
-úne en su seno a los representantes
-de individuos que se identifican con
-diferentes ideologías políticas, pero
-que en al momento en que forman
-parte de la Cámara deben responden
-por la ciudanía de la provincia en su
-conjunto. El otro es el Parlamento
-peronista, que pretende dar repre-
-sentación a grupos socioeconómicos
-de acuerdo a un criterio funcional y
-que en cuanto a ideología se caracte-
-riza por la uniformidad.
-
-Respondiendo al interrogante de
-la investigación acerca de si el siste-
-ma electoral representó una expre-
-sión acabada del proyecto político/
-institucional peronista o se desvió
-
-105  Mesa Temática 4: Problemas de la historia política en los espacios provinciales y regionales: del reformismo a las transiciones democráticas (1880-1983)
-XXXVIII ENCUENTRO DE
-GEOHISTORIA REGIONAL
-
-de las nociones propuestas por la au-
-tora Sabrina Ajmechet para el con-
-junto de reformas electorales que se
-plantean en el período a nivel nacio-
-nal, podemos decir que claramente
-se realizó con el mismo sentido y
-representó la concreción de un ideal
-expresado en numerosas ocasiones
-por Perón.
-
-|
-
-| VIII SIMPOSIO |
-BECION Y ISBN: 978-987-4450-07-4
-| PUBLICAS | 1H -CONTCETUNNE
-
-Referencias bibliográficas
-
-Buela, A., (2009). «Consecuencias politológicas del congreso de filosofía
-del 49». Centro de Estudios Internacionales para el Desarrollo. [En
-línea] Consultado el 3 de julio, 2018. URL:http://www.ceid.edu.ar/
-biblioteca/2009/alberto_buela_consecuencias_politologicas_ del _
-congreso_de_filosofica del 409.pdf
-
-García Guitián, E., (2004). “El significado de la representación”. En: Anuario
-de la Facultad de Derecho, N”8, Universidad Autónoma de Madrid,
-Febrero, 2005; Madrid, España, pp. 109-120.
-
-James, D., (1990.). Resistencia e integración. El peronismo y la clase
-trabajadora argentina, 1946-1976, Buenos Aires, Ed. Siglo Veintiuno.
-
-Leoni, S. (1992). Los comienzos del Chaco provincializado. Resistencia, IIGHI-
-CONICET.
-
-Leoni, S., (2008). “La política en el Chaco en la primera mitad del siglo XX.
-Estructuras de participación, actores y prácticas”. En: Luorno, G. y
-Crespo, E. (Coord.) Nuevos Espacios. Nuevos Problemas. Los territorios
-nacionales, Ed. Educo.
-
-Losada, R., (2012). “Los partidos y la representación política en proceso de
-cambio”. En: Revista Civilizar, N* 2, Bogotá- USA, pp. 97-109.
-
-Magsgio, M., (2014). “Conflictividad social y movilización política: el escenario
-de la emergencia peronista en el Territorio Nacional del Chaco”. En:
-Coordenadas. Revista de Historia local y regional, N* 2, Río Cuarto,
-Centro de Investigaciones Históricas- UNRC, pp. 94-117.
-
-Rodriguez Díaz, A., (1987). “Un marco para el análisis de la representación
-política en los sistemas democráticos”. En: Revista de Estudios
-Políticos Nueva Época, N*58, Madrid, Centro de Estudios Políticos y
-Constitucionales, pp. 137-190
-
-Vázquez, P., (2016). “Comunidad Organizada: mito, acontecimiento,
-comunicación y procesos de circulación”. En: Castellucci, O.(compilador),
-Perón. La Commidad Organizada (1949) (Tomo 10, volumen 1), Ed.
-Biblioteca del Congreso de la Nación, pp. 25-58
-
-Fuentes
-
-Juan Domingo Perón, (1952). Mensaje del Presidente de la Nación Argentina
-General Juan Domingo Perón al inaugurar el 869 Periodo Ordinario
-de Sesiones del Honorable Congreso Nacional, Subsecretaría de
-Informaciones de la Presidencia de la Nación, Buenos Aires, pp. 125-126.
-
-(1952). «La Doctrina Peronista. Filosofía Política Social». La Baldrich. [En línea]
-Consultado el 15 de julio, 2018. URL: http://www.labaldrich.com.ar/wp-
-content/uploads/2015/10/Doctrina%20Peronista%20-%201947.pdf
-
-Millán Ford, M., (2011). El Chaco, Provincia Presidente Perón, el primer
-nombre de la actual provincia del Chaco, Resistencia, Instituto de
-Cultura del Chaco.
-
-Perón, J. D., (2006). La Comunidad Organizada. Buenos Aires, Instituto
-Nacional “Juan Domingo Perón”.
-
-Provincia del Chaco. Convención Constituyente. Diario de sesiones (1952). Bs. As
-
-Provincia Presidente Perón, (1952). Constitución Provincial. Resistencia,
-Gobierno de la Provincia.
-
-Rossi, E., (1952). Reivindicación del Chaco; En defensa de la República. La
-Plata, Ed. Parlamento Libre
-
-Diario El Territorio (1951-1952)
-
-106 Mesa Temática 4: Problemas de la historia política en los espacios provinciales y regionales: del reformismo a las transiciones demaocráticas (1880-1983)
+Respondiendo al interrogante de la investigación acerca de si el sistema electoral representó una expresión acabada del proyecto político/institucional peronista o se desvió  de las nociones propuestas por la autora Sabrina Ajmechet para el conjunto de reformas electorales que se plantean en el período a nivel nacional, podemos decir que claramente se realizó con el mismo sentido y representó la concreción de un ideal
+expresado en numerosas ocasiones por Perón.
